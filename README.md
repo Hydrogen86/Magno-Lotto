@@ -7,6 +7,7 @@ IntegrativeActivity3
     </head>
     <body>
         <h1>Hello Git World!</h1>
+        <h2>Commit From GitHub</h2>
         <h2>I made it!</h2>
         <p>What I am doing?</p>
     </body>
